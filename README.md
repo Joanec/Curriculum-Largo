@@ -1,1 +1,1 @@
-# Curriculum-Largo
+# CurriculumLargo
